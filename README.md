@@ -56,10 +56,3 @@ Codex · Claude Code · Coze Studio · APIs
 **Product & Technical**  
 Product Strategy · PRD · Workflow Design · Python · GitHub · Docker
 
----
-
-### Currently Building
-
-**AIProductBench** — LLM evaluation & model selection  
-**AI Visual Studio** — Agentic creative production  
-**CreatorLens** — AI creator intelligence workflow
