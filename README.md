@@ -11,16 +11,16 @@ from problem framing and model evaluation to workflow design and validation.
 
 ## Featured Projects
 
-### 🧠 AIProductBench
-**LLM Evaluation & Model Selection Framework**
+### 🧠 [AIProductBench CN](https://github.com/skynet518/AIProductBench)
+**Chinese LLM Evaluation & Model Selection Benchmark**
 
-A product-oriented framework for evaluating LLMs across real product scenarios.
+`10 Models` · `6 Providers` · `50 Tasks` · `Quality × Cost × Latency`
 
-`Quality` · `Cost` · `Latency` · `Stability` · `Task Fit`
+A production-oriented benchmark that turns model evaluation into product-level
+selection decisions using hybrid deterministic checks, cross-family LLM judges,
+cost / latency measurement, and Pareto analysis.
 
-From benchmark design and model comparison to product-level model selection and routing decisions.
-
-**Status:** Building
+**V1 Released**
 
 ---
 
@@ -55,4 +55,3 @@ Codex · Claude Code · Coze Studio · APIs
 
 **Product & Technical**  
 Product Strategy · PRD · Workflow Design · Python · GitHub · Docker
-
