@@ -8,7 +8,7 @@ My recent work spans LLM evaluation, agent workflows, reproducible financial res
 
 ## Selected Projects
 
-- **[AIProductBench CN](https://github.com/skynet518/AIProductBench)** — Practical LLM evaluation and product-level model selection.
+- **[AI Product Bench CN](https://github.com/skynet518/AIProductBench)** — Practical LLM evaluation and product-level model selection.
 - **[Gold Macro Intelligence](https://github.com/skynet518/gold-macro-intelligence)** — Reproducible gold macro research with an Agent Skill and Python CLI.
 - **[Citrus for Mac](https://github.com/skynet518/citrus-mac)** — A native macOS utility for file conversion and image workflows.
 
